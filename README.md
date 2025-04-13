@@ -21,7 +21,7 @@
 
 
 
-### 👩‍💻 A Little About Me <img src="https://img.icons8.com/stickers/100/laptop-girl.png" width="35"/>
+### 👩‍💻 A Little About Me 
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="180px" alt="Data Science Illustration"/>
 
