@@ -56,7 +56,22 @@
 - 🌱 **Learning:** Advanced SQL, Dash, Streamlit, Tableau basics  
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MariamKhedhiri&theme=onedark&row=2&column=3" alt="MariamKhedhiri" />
+  </a>
+</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamKhedhiri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MariamKhedhiri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamKhedhiri&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+--- 
 ## 💬 Let's Connect!
 
 <a href="https://www.linkedin.com/in/mariam-khedhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
