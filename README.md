@@ -52,7 +52,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
 
 <!-- Signal Processing -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/EEGLAB_logo.png" alt="eeglab" width="40" height="40"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="40" height="40"/>
 
 <!-- Low-Level & System -->
