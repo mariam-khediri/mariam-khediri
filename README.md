@@ -1,118 +1,75 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Fellow+Explorer!;Data+Meets+Impact.&center=true&size=30&color=58A6FF">
-</p>
+<!-- 
+**MariamKhedhiri/MariamKhedhiri** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
-<h1 align="center">Hey there! I'm Mariam Khedhiri 👩🏻‍💻</h1>
-
-<p align="center">
-  🌍 Data Analyst | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz  
-</p>
-
-<p align="center">
-  📊 Turning complex data into real-world insights & smarter decisions
-</p>
-
----
-
+<p align="center">📍 Profile Views</p>
 <div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
+  <img alt="visitor counter" src="https://profile-counter.glitch.me/MariamKhedhiri/count.svg" />
+</div>
 
 ---
 
-### 👩‍💻 A Little About Me <img src="https://img.icons8.com/stickers/100/laptop-girl.png" width="35"/>
+## ✨ Highlights
+<div align="left">
 
-<img align="right" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/000000/data-analysis.png" width="180px" alt="Data Science Illustration"/>
+<a href="https://github.com/MariamKhedhiri/epileptic-seizure-detection">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariamKhedhiri&repo=epileptic-seizure-detection&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 
-- 🔍 Currently exploring **Data Analytics & Interactive Dashboards**
-- 💸 Working on **SQL projects for pricing & finance**
-- 🧠 Passionate about **AI in healthcare & sustainability**
-- 🇩🇪 DAAD Alumni — **TU Chemnitz (Germany)**: EEG signal analysis in MST Labs
-- 🤝 Former STEP Student — deep intercultural & technical exchange
-- 🌐 Eager to drive **ML/Data Science projects for social good**
+<a href="https://github.com/MariamKhedhiri/sql-finance-pricing-project">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariamKhedhiri&repo=sql-finance-pricing-project&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 
----
-
-### 🚀 Tools & Technologies
-
-<p align="center">
-  <!-- Languages & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" />
-
-  <!-- Viz Tools -->
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40" />
-  <img src="https://voila.readthedocs.io/en/stable/_static/voila-logo.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" />
-
-  <!-- Signal Processing -->
-  <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" width="40" />
-
-  <!-- Web & Low-level -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
+</div>
 
 ---
 
-### 📌 Currently Up To
+## 📊 Stats
+<div align="left">
 
-- 🧪 **Research:** EEG-based seizure detection & model deployment on Raspberry Pi  
-- 📊 **Analysis:** CO₂ emissions dashboards  
-- 💸 **SQL:** Pricing & financial data projects  
-- 🌱 **Learning:** Advanced SQL, Streamlit, Tableau basics  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariamKhedhiri&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" />
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamKhedhiri&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 💬 Connect with Me!
+[![Mariam's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariamKhedhiri&bg_color=B721FF&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👩🏻‍💻 About Me
+
+- 🔍 Data Analyst passionate about **finance, sustainability & healthcare AI**  
+- 🎓 **DAAD Alumni 2024** – TU Chemnitz (Germany)  
+- 📌 Former researcher at **MST Labs** (EEG, ML, signal processing)  
+- 💼 Currently working on SQL-based finance projects and interactive dashboards  
+- 🚀 Excited about making data meaningful for the real world  
+- 🌱 Always learning — currently exploring **Dash**, **Tableau**, and advanced SQL
+
+---
+
+## 💬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariem-khediri/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
   <a href="mailto:mariamkhediri1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
   </a>
 </p>
 
 ---
 
-### 📚 Fun Facts
+## 🎉 Fun Facts
 
-- 🧩 Love puzzles, optimizing systems, and pattern discovery  
-- 🌱 Always learning and growing  
-- ✈️ Globally minded, technically sharp  
-- 💻 My grad project merged data engineering, signal processing & embedded AI
+- 🧠 I love exploring patterns in brain signals & environmental data  
+- 📊 Obsessed with translating data into insights  
+- 🧩 Big fan of logic puzzles and optimization  
+- ✈️ I grow through intercultural collaboration  
+- 🛠️ My graduation project merged embedded systems + ML + signal processing
 
 ---
 
