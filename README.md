@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Fellow+Explorer!;Data+Meets+Impact.&center=true&size=30&color=58A6FF">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+Fellow+Explorer!&center=true&size=30&color=58A6FF">
 </p>
 
-<h1 align="center">Hey there! I'm Mariam Khedhiri 👩🏻‍💻</h1>
+<h1 align="center">Hey there! I'm Mariem Khedhiri 👩🏻‍💻</h1>
 
 <p align="center">
-  🌍 Data Analyst | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz  
+  🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Signal Processing Explorer
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👩‍💻 A Little About Me <img src="https://img.icons8.com/stickers/100/laptop-girl.png" width="35"/>
 
-<img align="right" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/000000/data-analysis.png" width="180px" alt="Data Science Illustration"/>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="180px" alt="Data Science Illustration"/>
 
 - 🔍 Currently exploring **Data Analytics & Interactive Dashboards**
 - 💸 Working on **SQL projects for pricing & finance**
