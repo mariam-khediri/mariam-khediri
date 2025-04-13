@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://github.com/Ashwinvalento/cartoon-avatar/blob/master/lib/images/yolo-logo.png?raw=true" alt="yolo" width="40" height="40"/>
+
 
 <!-- Visualization -->
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
@@ -58,7 +58,7 @@
 <!-- Low-Level & System -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/VHDL_logo.png" alt="vhdl" width="40" height="40"/>
+
 
 <!-- Web Development -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
