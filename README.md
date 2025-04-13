@@ -98,7 +98,14 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamKhedhiri&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
---- 
+
+---
+
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-khediri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
+
+---
+
 ## 💬 Let's Connect!
 
 <a href="https://www.linkedin.com/in/mariem-khediri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
