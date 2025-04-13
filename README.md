@@ -4,8 +4,8 @@
 
 <h1 align="center"> I'm Mariam Khedhiri 👩🏻‍💻 </h1>                                
 
-🌍 Data Science Enthusiast | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz Labs  
-📊 Passionate about turning complex data into powerful, real-world insights — from EEG brainwaves to CO₂ emissions!
+🌍 Data Analyst | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz Labs  
+📊 Passionate about turning complex data into powerful, real world insights 
 
 ---
 
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
 ![](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
 
-<h3 align="center">With a background in industrial computing and a focus on signal processing and machine learning, I’ve explored everything from epileptic seizure detection using EEG data to CO₂ emissions analytics and dashboarding. My mission? Empower decisions with data clarity, intelligence, and integrity.</h3> 
+<h3 align="center">I started with a strong foundation in software engineering and discovered a real passion for data science. Whether it’s analyzing brain signals or environmental trends, I enjoy making sense of data and turning it into something valuable and useful.</h3> 
 
 ---
 
@@ -22,10 +22,10 @@
 
 <img align="right" src="https://img.icons8.com/external-flaticons-flat-flat-icons/200/000000/external-data-science-agriculture-flaticons-flat-flat-icons.png" width="180px"/>
 
-- 🔭 Currently exploring **Data Analytics & Interactive Dashboards (CO₂ Emissions Project)**  
-- 🎯 Working on **an SQL finance/pricing project** to deepen real-world analytical skills  
+- 🔭 Currently exploring **Data Analytics & Interactive Dashboards **  
+- 🎯 Working on **an SQL finance projects**  
 - 🧠 Passionate about **AI in healthcare and sustainability**  
-- 🌍 DAAD Alumni 2024 — 🇩🇪 **TU Chemnitz (Germany)**: Explored EEG signal processing in MST Labs  
+- 🌍 DAAD Alumni 2024 — 🇩🇪 **TU Chemnitz (Germany)**: Explored epileptic EEG signal in MST Labs  
 - 💡 Former STEP Student — gained rich intercultural and technical experiences  
 - 📌 Keen to contribute to **Data Science + Machine Learning for social good**
 
@@ -35,15 +35,42 @@
 ## 🚀 Tech & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+<!-- Core Data & ML Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://github.com/Ashwinvalento/cartoon-avatar/blob/master/lib/images/yolo-logo.png?raw=true" alt="yolo" width="40" height="40"/>
+
+<!-- Visualization -->
+<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="40" height="40"/>
+<img src="https://voila.readthedocs.io/en/stable/_static/voila-logo.svg" alt="voila" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+
+<!-- Signal Processing -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/EEGLAB_logo.png" alt="eeglab" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="40" height="40"/>
+
+<!-- Low-Level & System -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/VHDL_logo.png" alt="vhdl" width="40" height="40"/>
+
+<!-- Web Development -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+
+<!-- Other Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+
 </p>
 
 ---
