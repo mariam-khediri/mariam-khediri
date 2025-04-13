@@ -1,125 +1,119 @@
-<p align="center">                    
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Explorers!&center=true&size=30">                                            
-</p>                                                                        
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome,+Fellow+Explorer!;Data+Meets+Impact.&center=true&size=30&color=58A6FF">
+</p>
 
-<h1 align="center"> I'm Mariam Khedhiri 👩🏻‍💻 </h1>                                
+<h1 align="center">Hey there! I'm Mariam Khedhiri 👩🏻‍💻</h1>
 
-🌍 Data Analyst | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz Labs  
-📊 Passionate about turning complex data into powerful, real world insights 
+<p align="center">
+  🌍 Data Analyst | 🎓 DAAD Alumna 2024 | 🧠 Signal Processing Explorer | 🔬 Former Researcher at MST TU Chemnitz  
+</p>
 
----
-
-<div align="center">                                 
-   
-![](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
-![](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
-
-<h3 align="center">I started with a strong foundation in software engineering and discovered a real passion for data science. Whether it’s analyzing brain signals or environmental trends, I enjoy making sense of data and turning it into something valuable and useful.</h3> 
-
----
-
-## <img src="https://img.icons8.com/color/48/about.png" width="30px"/> About Me
-
-<img align="right" src="https://img.icons8.com/external-flaticons-flat-flat-icons/200/000000/external-data-science-agriculture-flaticons-flat-flat-icons.png" width="180px"/>
-
-- 🔭 Currently exploring **Data Analytics & Interactive Dashboards **  
-- 🎯 Working on **an SQL finance projects**  
-- 🧠 Passionate about **AI in healthcare and sustainability**  
-- 🌍 DAAD Alumni 2024 — 🇩🇪 **TU Chemnitz (Germany)**: Explored epileptic EEG signal in MST Labs  
-- 💡 Former STEP Student — gained rich intercultural and technical experiences  
-- 📌 Keen to contribute to **Data Science + Machine Learning for social good**
-
-
----
-
-## 🚀 Tech & Tools
-
-<p align="left">
-<!-- Core Data & ML Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-
-
-<!-- Visualization -->
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="40" height="40"/>
-<img src="https://voila.readthedocs.io/en/stable/_static/voila-logo.svg" alt="voila" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-
-<!-- Signal Processing -->
-
-<img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="40" height="40"/>
-
-<!-- Low-Level & System -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-
-
-<!-- Web Development -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-
-<!-- Other Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-
+<p align="center">
+  📊 Turning complex data into real-world insights & smarter decisions
 </p>
 
 ---
 
-## 📈 What I'm Currently Up To
-
-- 🧪 **Research:** EEG-based seizure detection, channel selection, XGBoost model deployment on Raspberry Pi  
-- 📊 **Analysis:** Interactive dashboards for CO₂ emissions  
-- 💻 **SQL:** Finance-oriented queries and data modeling  
-- 🌱 **Learning:** Advanced SQL, Dash, Streamlit, Tableau basics  
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
 
 ---
 
+### 👩‍💻 A Little About Me <img src="https://img.icons8.com/stickers/100/laptop-girl.png" width="35"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" alt="mariam-khediri" /></a> </p>
-</div>
+<img align="right" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/000000/data-analysis.png" width="180px" alt="Data Science Illustration"/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="mariam-khediri" />
-
-<br/>
-
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="mariam-khediri" />
-
-
-<br/>
-
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" alt="mariam-khediri" />
-
-<br/>
-
+- 🔍 Currently exploring **Data Analytics & Interactive Dashboards**
+- 💸 Working on **SQL projects for pricing & finance**
+- 🧠 Passionate about **AI in healthcare & sustainability**
+- 🇩🇪 DAAD Alumni — **TU Chemnitz (Germany)**: EEG signal analysis in MST Labs
+- 🤝 Former STEP Student — deep intercultural & technical exchange
+- 🌐 Eager to drive **ML/Data Science projects for social good**
 
 ---
 
+### 🚀 Tools & Technologies
 
-## 💬 Let's Connect!
+<p align="center">
+  <!-- Languages & Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" />
 
-<a href="https://www.linkedin.com/in/mariem-khediri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
-<a href="mailto:mariamkhediri1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
+  <!-- Viz Tools -->
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40" />
+  <img src="https://voila.readthedocs.io/en/stable/_static/voila-logo.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" />
+
+  <!-- Signal Processing -->
+  <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" width="40" />
+
+  <!-- Web & Low-level -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ---
 
-## 📚 Fun Facts
+### 📌 Currently Up To
 
-- 🧩 I love solving puzzles, optimizing systems, and discovering meaningful patterns in data.  
-- 🌱 I'm a lifelong learner and always up for a challenge.  
-- ✈️ Working across borders has helped me grow technically and personally.  
-- 🎓 My graduation project combined data engineering, signal processing, and real-time embedded deployment.  
+- 🧪 **Research:** EEG-based seizure detection & model deployment on Raspberry Pi  
+- 📊 **Analysis:** CO₂ emissions dashboards  
+- 💸 **SQL:** Pricing & financial data projects  
+- 🌱 **Learning:** Advanced SQL, Streamlit, Tableau basics  
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" />
+</p>
+
+---
+
+### 💬 Connect with Me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariem-khediri/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+  <a href="mailto:mariamkhediri1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+</p>
+
+---
+
+### 📚 Fun Facts
+
+- 🧩 Love puzzles, optimizing systems, and pattern discovery  
+- 🌱 Always learning and growing  
+- ✈️ Globally minded, technically sharp  
+- 💻 My grad project merged data engineering, signal processing & embedded AI
 
 ---
 
 _✨ “In data we trust — but only after preprocessing, feature selection, and model validation!” ✨_
-
