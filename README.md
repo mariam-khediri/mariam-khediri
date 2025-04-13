@@ -107,13 +107,3 @@
 
 ---
 
-### 📚 Fun Facts
-
-- 🧩 Love puzzles, optimizing systems, and pattern discovery  
-- 🌱 Always learning and growing  
-- ✈️ Globally minded, technically sharp  
-- 💻 My grad project merged data engineering, signal processing & embedded AI
-
----
-
-_✨ “In data we trust — but only after preprocessing, feature selection, and model validation!” ✨_
