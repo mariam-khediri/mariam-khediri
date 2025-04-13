@@ -101,8 +101,8 @@
 --- 
 ## 💬 Let's Connect!
 
-<a href="https://www.linkedin.com/in/mariam-khedhiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
-<a href="mailto:mariam.khedhiri.dev@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariem-khediri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
+<a href="mailto:mariamkhediri1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
 
 ---
 
