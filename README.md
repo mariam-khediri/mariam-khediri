@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+Fellow+Explorer!&center=true&size=30&color=58A6FF">
 </p>
 
-<h1 align="center">Hey there! I'm Mariem Khedhiri 👩🏻‍💻</h1>
+<h1 align="center">I'm Mariem Khedhiri 👩🏻‍💻</h1>
 
 <p align="center">
   🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Signal Processing Explorer
@@ -12,14 +12,14 @@
   📊 Turning complex data into real-world insights & smarter decisions
 </p>
 
----
+
 
 <div align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
 
----
+
 
 ### 👩‍💻 A Little About Me <img src="https://img.icons8.com/stickers/100/laptop-girl.png" width="35"/>
 
