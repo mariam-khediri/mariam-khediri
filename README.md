@@ -106,6 +106,26 @@
 
 ---
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" alt="mariam-khediri" /></a> </p>
+</div>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="mariam-khediri" />
+
+<br/>
+
+<img class="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="mariam-khediri" />
+
+
+<br/>
+
+<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" alt="mariam-khediri" />
+
+<br/>
+
+
+---
+
+
 ## 💬 Let's Connect!
 
 <a href="https://www.linkedin.com/in/mariem-khediri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-khedhiri" height="30" width="40" /></a>
