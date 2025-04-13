@@ -73,8 +73,8 @@
 
 ### 📌 Currently Up To
 
-- 🧪 **Research:** EEG-based seizure detection & model deployment on Raspberry Pi  
-- 📊 **Analysis:** CO₂ emissions dashboards  
+- 🧪 **Research:** EEG-based epileptic seizure classification & model deployment on Raspberry Pi  
+- 📊 **Analysis:** Interactive dashboards  
 - 💸 **SQL:** Pricing & financial data projects  
 - 🌱 **Learning:** Advanced SQL, Streamlit, Tableau basics  
 
