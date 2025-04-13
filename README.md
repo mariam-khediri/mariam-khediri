@@ -83,23 +83,7 @@
 - 🌱 **Learning:** Advanced SQL, Dash, Streamlit, Tableau basics  
 
 ---
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MariamKhedhiri&theme=onedark&row=2&column=3" alt="MariamKhedhiri" />
-  </a>
-</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamKhedhiri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MariamKhedhiri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamKhedhiri&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-
----
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-khediri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
