@@ -18,9 +18,9 @@
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About Me
+## <img src="https://img.icons8.com/color/48/about.png" width="30px"/> About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"/>
+<img align="right" src="https://img.icons8.com/external-flaticons-flat-flat-icons/200/000000/external-data-science-agriculture-flaticons-flat-flat-icons.png" width="180px"/>
 
 - 🔭 Currently exploring **Data Analytics & Interactive Dashboards (CO₂ Emissions Project)**  
 - 🎯 Working on **an SQL finance/pricing project** to deepen real-world analytical skills  
@@ -28,6 +28,7 @@
 - 🌍 DAAD Alumni 2024 — 🇩🇪 **TU Chemnitz (Germany)**: Explored EEG signal processing in MST Labs  
 - 💡 Former STEP Student — gained rich intercultural and technical experiences  
 - 📌 Keen to contribute to **Data Science + Machine Learning for social good**
+
 
 ---
 
