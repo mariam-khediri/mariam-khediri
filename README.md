@@ -1,5 +1,5 @@
 <p align="center">                    
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mariam+Khedhiri!;Data+Engineer+%7C+AI+Explorer+%7C+DAAD+Alumna+2024;Driven+by+curiosity,+powered+by+data...&center=true&size=30">                                            
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mariam+Khedhiri!&center=true&size=30">                                            
 </p>                                                                        
 
 <h1 align="center"> I'm Mariam Khedhiri 👩🏻‍💻 </h1>                                
