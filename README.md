@@ -10,6 +10,7 @@
 
 <p align="center">
   📊 Turning complex data into real-world insights & smarter decisions
+      Driven by a deep curiosity for data and its hidden patterns, I’m passionate about crafting smart solutions through the artful blend of analysis, algorithms, and real-world impact.
 </p>
 
 
