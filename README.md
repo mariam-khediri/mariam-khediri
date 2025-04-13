@@ -17,7 +17,7 @@
 
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/MariamKhedhiri?color=blue&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/MariamKhedhiri?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=MariamKhedhiri)  
 
 
