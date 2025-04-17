@@ -80,16 +80,18 @@
 - 🌱 **Learning:** Advanced SQL, Streamlit, Tableau basics  
 
 ---
-
+<!-- github profile trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" /></a>
 </p>
-
+<!-- github top languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   <br/>
+  <!-- github stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <br/>
+  <!-- github streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" />
 </p>
 
