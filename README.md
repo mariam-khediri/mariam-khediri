@@ -5,7 +5,7 @@
 <h1 align="center">I'm Mariem Khedhiri 👩🏻‍💻</h1>
 
 <p align="center">
-  🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Signal Processing Explorer
+  🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Finance + ML Explorer
 </p>
 
 <p align="center">
@@ -102,6 +102,31 @@
 </p>
 
 ---
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+
+<div align=center>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&&theme=radical" alt="mariam-khediri" />
+<br/> <br/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariam-khediri&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="mariam-khediri" />
+<br>
+<br>
+    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&locale=en&&theme=radical" alt="mariam-khediri" />
+  <br/><br/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&&theme=radical" alt="mariam-khediri" />
+</div>
+<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+ <hr/>
+
+
+ ---
+ 
+
 
 ### 💬 Connect with Me!
 
