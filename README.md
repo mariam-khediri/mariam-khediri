@@ -81,42 +81,31 @@
 
 ---
 <!-- github profile trophy -->
+<h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" /></a>
 </p>
 
-<h2 align="center">🏆 Trophies 🏆</h2>
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="mariam-khediri" /></a> </p>
- <hr/>
- 
-<!-- github top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
-  <br/>
-  <!-- github stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <br/>
-  <!-- github streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=react&border=61dafb&hide_border=true" />
-</p>
 
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
-
+<!-- github streak stats -->
 <div align=center>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&&theme=radical" alt="mariam-khediri" />
 <br/> <br/>
+   <!-- activity graph -->
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariam-khediri&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="mariam-khediri" />
 <br>
 <br>
-    
+     <!-- github stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&locale=en&&theme=radical" alt="mariam-khediri" />
   <br/><br/>
+  <!-- github top languages -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&&theme=radical" alt="mariam-khediri" />
 </div>
 <br/>
+<!-- random quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
