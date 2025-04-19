@@ -71,14 +71,6 @@
 
 ---
 
-### 📌 Currently Up To
-
-- 🧪 **Research:** EEG-based epileptic seizure classification & model deployment on Raspberry Pi  
-- 📊 **Analysis:** Interactive dashboards  
-- 💸 **SQL:** Pricing & financial data projects  
-- 🌱 **Learning:** Advanced SQL, Streamlit, Tableau basics  
-
----
 <!-- github profile trophy -->
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
