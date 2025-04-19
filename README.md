@@ -84,6 +84,12 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=onedark&row=2&column=3" /></a>
 </p>
+
+<h2 align="center">🏆 Trophies 🏆</h2>
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="mariam-khediri" /></a> </p>
+ <hr/>
+ 
 <!-- github top languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
