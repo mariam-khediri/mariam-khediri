@@ -104,17 +104,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&&theme=radical" alt="mariam-khediri" />
 </div>
 <br/>
-<!-- random quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
- <hr/>
-
 
  ---
- 
-
 
 ### 💬 Connect with Me!
 
@@ -127,6 +118,12 @@
   </a>
 </p>
 
+<!-- random quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+ <hr/>
 ---
 <p align="right">
   <a href="#top">
