@@ -71,14 +71,16 @@
 
 ---
 ###📛 Certifications & Badges
-<p align="center"> <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
+<p align="center"> 
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/></a>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
   <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-</p> <p align="center"> <a href="https://www.credly.com/users/mariam-khedhiri/" target="_blank"> 🏅 View All Badges on Credly </a> </p>
+</p> 
+<p align="center"> <a href="https://www.credly.com/users/mariam-khedhiri/" target="_blank"> 🏅 View All Badges on Credly </a> </p>
 
 ---
 
