@@ -70,7 +70,7 @@
 </p>
 
 ---
-###📛 Certifications & Badges
+### 📛 Certifications & Badges
 <p align="center"> 
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/></a>
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data Analysis with python.png" alt="mariam-khediri" width="75" height="75"/></a>
