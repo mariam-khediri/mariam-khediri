@@ -73,14 +73,14 @@
 ###📛 Certifications & Badges
 <p align="center"> 
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/></a>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
-  <img src="CCNAITN__1_.png" alt="mariam-khediri" width="75" height="75"/>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data Analysis with python.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data Science Orientation.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data_Science_Methodology_Foundational.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Databases and SQL for Data Science.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Python for Data Science and AI.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Tools for Data Science.png" alt="mariam-khediri" width="75" height="75"/></a>
 </p> 
-<p align="center"> <a href="https://www.credly.com/users/mariam-khedhiri/" target="_blank"> 🏅 View All Badges on Credly </a> </p>
+
 
 ---
 
