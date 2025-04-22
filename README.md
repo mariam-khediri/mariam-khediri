@@ -31,6 +31,7 @@
 - 🇩🇪 DAAD Alumni — **TU Chemnitz (Germany)**: EEG signal analysis in MST Labs
 - 🤝 Former STEP Student — deep intercultural & technical exchange
 - 🌐 Eager to drive **ML/Data Science projects for social good**
+<!-- - working on IBM data science professional certificate -->
 
 ---
 
