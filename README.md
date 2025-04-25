@@ -98,14 +98,14 @@
 <br/>
 <!-- github streak stats -->
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&theme=radical" alt="mariam-khediri" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-khediri&&theme=radical" alt="mariam-khediri" />
 <br/> <br/>
    <!-- activity graph -->
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariam-khediri&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="mariam-khediri" />
 <br>
 <br>
      <!-- github stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&locale=en&&theme=radical" alt="mariam-khediri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&locale=en&theme=radical" alt="mariam-khediri" />
   <br/><br/>
   <!-- github top languages -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-khediri&show_icons=true&locale=en&layout=compact&&theme=radical" alt="mariam-khediri" />
