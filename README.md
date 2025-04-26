@@ -132,6 +132,7 @@
 
 
 <!-- let's add a snake eating my daily progress , you can find videos on youtube for tutoriels -->
+<!-- the is a pb with the streak graph , it doesn't appear daily -->
 
  <hr/>
  
