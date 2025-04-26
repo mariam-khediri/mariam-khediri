@@ -130,6 +130,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+
+<!-- let's add a snake eating my daily progress , you can find videos on youtube for tutoriels -->
+
  <hr/>
  
 ---
