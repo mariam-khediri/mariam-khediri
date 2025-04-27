@@ -130,12 +130,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-
-<!-- let's add a snake eating my daily progress , you can find videos on youtube for tutoriels -->
-<!-- the is a pb with the streak graph , it doesn't appear daily -->
-
  <hr/>
- 
+
+---
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 ---
 
 <p align="right">
