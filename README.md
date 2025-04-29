@@ -10,7 +10,8 @@
 
 <p align="center">
   📊 Turning complex data into real-world insights & smarter decisions
-      Driven by a deep curiosity for data and its hidden patterns, I’m passionate about crafting smart solutions through the artful blend of analysis, algorithms, and real-world impact.
+  📚 Sharing knowledge on GitHub to help others master data analysis tools<br>
+  🔍 Driven by a deep curiosity for data and its hidden patterns, I’m passionate about crafting smart solutions through the artful blend of analysis, algorithms, and real-world impact.
 </p>
 
 
@@ -28,6 +29,7 @@
 - 🔍 Currently exploring **Data Analytics & Interactive Dashboards**
 - 💸 Working on **SQL projects for pricing & finance**
 - 🧠 Passionate about **AI in healthcare & sustainability**
+- 📖 Creating **open-source learning resources** for data analysis tools
 - 🇩🇪 DAAD Alumni — **TU Chemnitz (Germany)**: EEG signal analysis in MST Labs
 - 🤝 Former STEP Student — deep intercultural & technical exchange
 - 🌐 Eager to drive **ML/Data Science projects for social good**
