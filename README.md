@@ -136,12 +136,7 @@
 </p>
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=mariam-khediri&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="mariam khediri Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariam-khediri&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-khediri&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=mariam-khediri&show_icons=true&theme=transparent"/>
-	    <img alt="mariam-khediri's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariam-khediri&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+ <img alt="mariam-khediri's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariam-khediri&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
 
