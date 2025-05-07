@@ -7,6 +7,12 @@
 <p align="center">
   🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Finance + ML Explorer
 </p>
+<p align="center">
+  <a href="https://mariam-khediri.github.io/Html/home.html" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</p>
+
 
 <p align="center">
   📊 Turning complex data into real-world insights & smarter decisions<br>
