@@ -67,7 +67,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40" />
   <img src="https://voila.readthedocs.io/en/stable/_static/voila-logo.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Looker-studio-logo.svg/512px-Looker-studio-logo.svg.png" width="40" />
+  <img src="https://lookerstudio.google.com/favicon.ico" width="40" title="Looker Studio" />
+
 
 
   <!-- Signal Processing -->
