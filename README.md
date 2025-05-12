@@ -33,6 +33,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="180px" alt="Data Science Illustration"/>
 
 - 🔍 Currently exploring **Data Analytics & Interactive Dashboards**
+- 💬 Diving into the world of **Large Language Models** by building chatbots
 - 💸 Working on **SQL projects for pricing & finance**
 - 🧠 Passionate about **AI in healthcare & sustainability**
 - 📖 Creating **open-source learning resources** for data analysis tools
