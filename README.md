@@ -58,10 +58,7 @@
 
   <!-- LLM / NLP -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face Transformers" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Gradio_logo.png" width="60" title="Gradio" />
-
-
-
+  <img src="https://www.gradio.app/favicon.ico" width="40" title="Gradio" />
 
   <!-- Viz Tools -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" />
