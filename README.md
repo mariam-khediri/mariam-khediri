@@ -56,6 +56,11 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" />
 
+  <!-- LLM / NLP -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face Transformers" />
+  <img src="https://gradio.app/assets/img/logo.svg" width="40" title="Gradio" />
+
+
   <!-- Viz Tools -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40" />
