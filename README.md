@@ -108,7 +108,7 @@
 <!-- github profile trophies     -->
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&&theme=onedark&row=3&column=3" /></a>    
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-khediri&&theme=onedark&row=2&column=4" /></a>    
 
  
 
