@@ -80,9 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://scrapy.org/img/scrapylogo.png" width="40" title="Scrapy" />
+ <!--  <img src="https://scrapy.org/img/scrapylogo.png" width="40" title="Scrapy" />  -->
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40" title="Selenium" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" title="Playwright" />
+  <!--  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" title="Playwright" />  -->
 
   <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
