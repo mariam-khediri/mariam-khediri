@@ -100,7 +100,7 @@
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Python for Data Science and AI.png" alt="mariam-khediri" width="75" height="75"/></a>
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Tools for Data Science.png" alt="mariam-khediri" width="75" height="75"/></a>
 	
-  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data Scientist Career Guide and Interview Preparation.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Data Scientist Career Guide and Interview-Preparation.png" alt="mariam-khediri" width="75" height="75"/></a>
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="data visualization with python.png" alt="mariam-khediri" width="75" height="75"/></a>
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="ml with python.png" alt="mariam-khediri" width="75" height="75"/></a>
 
