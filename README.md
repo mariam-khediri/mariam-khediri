@@ -104,6 +104,8 @@
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="data visualization with python.png" alt="mariam-khediri" width="75" height="75"/></a>
   <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="ml with python.png" alt="mariam-khediri" width="75" height="75"/></a>
 
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="Coursera_20Data_20Science_20Professional_20Certificate.png" alt="mariam-khediri" width="75" height="75"/></a>
+  <a href="https://www.credly.com/users/mariam-khedhiri/"><img src="image-removebg-preview.png" alt="mariam-khediri" width="75" height="75"/></a>
 </p> 
 
 
