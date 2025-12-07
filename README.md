@@ -5,7 +5,7 @@
 <h1 align="center">I'm Mariem Khedhiri 👩🏻‍💻</h1>
 
 <p align="center">
- SAP Technical Support engineer @ Focus Corporation | 🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Finance + ML Explorer
+ SAP Technical Support engineer @ SAP - External | 🌍 Data Analyst | 🎓 DAAD Alumna 2024  | 🔬 Former Researcher at MST TU Chemnitz  | 🧠 Finance + ML Explorer
 </p>
 <p align="center">
   <a href="https://mariam-khediri.github.io/Html/home.html" target="_blank">
